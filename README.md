@@ -1,3 +1,5 @@
+基于ASTRBOT的机器人，该插件未测试，未启用
+
 # astrbot-plugin-helloworld
 
 AstrBot 插件模板 / A template plugin for AstrBot plugin feature
